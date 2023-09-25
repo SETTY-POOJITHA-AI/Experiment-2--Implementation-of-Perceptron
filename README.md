@@ -123,8 +123,7 @@ plt.ylabel('Errors')
 plt.show()
 ```
 ## Output:
-```
-```
+
 ## Dataset:
 ![output](dog1.png)
 ## Scatter plot:
